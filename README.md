@@ -1,5 +1,6 @@
 # nn-from-scratch
 
+I did this project to teach myself the fundamentals of how a neural network works under the hood.
 implemented artificial neural network from scratch only using Numpy in order to understand how a neural network works.
 
 Mainly focused on:
